@@ -264,3 +264,9 @@
 > * 博客：[http://blog.wtlucky.com/blog/archives/](http://blog.wtlucky.com/blog/archives/)
 
 ---
+
+## Reference
+
+* [关注技术圈的那些人和事](https://github.com/iamjiyixuan/Developer)
+* [swift开发者个人资料](https://github.com/ipader/SwiftGuide/wiki/%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E9%A1%B5)
+* [阅读优秀的Blog](http://yyny.me/ios/%E9%98%85%E8%AF%BB%E4%BC%98%E7%A7%80%E7%9A%84Blog/)
