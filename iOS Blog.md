@@ -1,23 +1,30 @@
 ## iOS Blog & Resources
 
-include community、personal blog、code resource、
+include community、team blog、personal blog、open resource code collection、
 
 ## community
 
 >「**Stack Overflow**」
 >
-> 全球最大 IT 技术问答社区。
+> IT 技术问答社区。
 > 
 > * 官网：[http://stackoverflow.com/](http://stackoverflow.com/) 
-> 
 
 ---
 
 > 「**GitHub**」 
 > 
-> 全球最大同性交友社区，你懂的 ╮(╯_╰)╭。
+> 开源社区
 > 
 > * 官网: [https://github.com/](https://github.com/)
+
+---
+
+> 「**稀土掘金**」 
+> 
+> * 官网: [http://gold.xitu.io/](http://gold.xitu.io/)
+
+---
 
 ## Totorials
 
@@ -27,6 +34,31 @@ include community、personal blog、code resource、
 
 ---
 
+> 「**Core Animation中文版翻译**」
+>
+> 
+> 
+> * 博客：[https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
+
+---
+
+## Team Blog
+
+> 「**WeRead团队博客**」
+>
+>  微信读书
+> 
+> * 博客地址：[WeRead团队博客](http://wereadteam.github.io/)
+
+---
+
+> 「**Grow技术团队博客**」
+>
+> 
+> 
+> * 博客：[http://tech.glowing.com/cn/](http://tech.glowing.com/cn/)
+
+---
 
 ## Personal Blog
 
@@ -102,11 +134,11 @@ include community、personal blog、code resource、
 
 ---
 
-> 「**Grow技术团队博客**」
+> 「**雷纯峰的技术博客**」
 >
 > 
 > 
-> * 博客：[http://tech.glowing.com/cn/](http://tech.glowing.com/cn/)
+> * 博客：[http://blog.leichunfeng.com/blog/archives/](http://blog.leichunfeng.com/blog/archives/)
 
 ---
 
@@ -147,14 +179,6 @@ include community、personal blog、code resource、
 > 
 > 
 > * 博客：[http://www.galloway.me.uk/blog/archives/](http://www.galloway.me.uk/blog/archives/)
-
----
-
-> 「**Core Animation中文版翻译**」
->
-> 
-> 
-> * 博客：[https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
 
 ---
 
@@ -275,6 +299,7 @@ include community、personal blog、code resource、
 > 
 > * Github: [https://github.com/WildDylan/appleSample](https://github.com/WildDylan/appleSample)
 
+---
 
 ## Reference
 
